@@ -1,0 +1,6 @@
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\bin\Debug\ShamHmWk.exe.config
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\bin\Debug\ShamHmWk.exe
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\bin\Debug\ShamHmWk.pdb
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\obj\Debug\ShamHmWk.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\obj\Debug\ShamHmWk.exe
+C:\Users\Joel\source\repos\ShamHmWk\ShamHmWk\obj\Debug\ShamHmWk.pdb
