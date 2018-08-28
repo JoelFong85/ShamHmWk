@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShamHmWk
 {
-    class Program
+    class ValidIdentiFier
     {
 
         static void Main(string[] args)
